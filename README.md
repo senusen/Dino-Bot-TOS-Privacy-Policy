@@ -1,4 +1,4 @@
-# Discord Bot Terms of Service and Privacy Policy
+# Dino Bot Terms of Service and Privacy Policy
 
 ## Terms of Service
 
